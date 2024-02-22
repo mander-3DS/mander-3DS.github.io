@@ -4,6 +4,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
 </head>
-<body style="background-color:black;" style="color:white;">
-   e
+<body style="background-color:black;">
+   <p style="color:white;">
+      e
+   </p>
 </body>
