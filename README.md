@@ -1,5 +1,9 @@
-# Flatnutria.github.io
-<style> 
-   background-image: url('https://imgur.com/OhVb4pb');
-</style>
-<div style="border:7px solid #00a8f3;background:#00a8f3 url(https://i.imgur.com/fDggZDq.png);padding:10px;max-width:1000px;">
+# 
+<head>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+</head>
+<body style="background-color:black;">
+   e
+</body>
