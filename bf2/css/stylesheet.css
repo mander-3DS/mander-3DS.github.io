@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'LTUnivers 520 CondMedium';
+    src: url('LTUnivers-CondBlack.woff2') format('woff2'),
+        url('LTUnivers-CondBlack.woff') format('woff'),
+        url('LTUnivers-CondBlack.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linotype Univers 430';
+    src: url('LinotypeUnivers-430Regular.woff2') format('woff2'),
+        url('LinotypeUnivers-430Regular.woff') format('woff'),
+        url('LinotypeUnivers-430Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aurabesh';
+    src: url('Aurabesh.woff2') format('woff2'),
+        url('Aurabesh.woff') format('woff'),
+        url('Aurabesh.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
